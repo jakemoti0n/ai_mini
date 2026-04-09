@@ -1,6 +1,6 @@
 # Bannerlord Gemini Bridge
 
-배너로드 LLM 모드가 요구하는 Ollama API를 클라우드(Vertex AI)로 중계해 주는 가벼운 브릿지 서버입니다.
+게임 배너로드 LLM 모드(ai influence)가 지원하는 방식중 Ollama API를 클라우드(Vertex AI)로 중계해 주는 가벼운 브릿지 서버입니다.
 
 ## 왜 만들었나요?
 
